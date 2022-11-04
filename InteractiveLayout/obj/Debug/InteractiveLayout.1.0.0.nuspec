@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InteractiveLayout</id>
+    <version>1.0.0</version>
+    <authors>InteractiveLayout</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="System.Linq.Dynamic.Core" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="4.3.0.908675" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\bin\Debug\net5.0\InteractiveLayout.dll" target="lib\net5.0\InteractiveLayout.dll" />
+  </files>
+</package>

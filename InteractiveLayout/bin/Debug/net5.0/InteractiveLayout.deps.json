@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InteractiveLayout/1.0.0": {
+        "dependencies": {
+          "System.Linq.Dynamic.Core": "1.2.0",
+          "Xamarin.Forms": "4.3.0.908675"
+        },
+        "runtime": {
+          "InteractiveLayout.dll": {}
+        }
+      },
+      "System.Linq.Dynamic.Core/1.2.0": {
+        "runtime": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/4.3.0.908675": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.336"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.336"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.336"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InteractiveLayout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Linq.Dynamic.Core/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nbeI4oOTBNsS2gErl9M0FS2gYW7626DaiFGH2wyx3FS3VdRy3wPZxyFJEFgvCc0/WzySG4z3afOS4qyab51Tng==",
+      "path": "system.linq.dynamic.core/1.2.0",
+      "hashPath": "system.linq.dynamic.core.1.2.0.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.3.0.908675": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kXrbXKJvXYF4cKjs1Jsb+pQFEnFGl0AONYSeABjgOJqN/o5Y4zC0XXQ68xiUI81PKQTuRB5F3oDom2t5ccJDZw==",
+      "path": "xamarin.forms/4.3.0.908675",
+      "hashPath": "xamarin.forms.4.3.0.908675.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\InteractiveLayout.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\InteractiveLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\InteractiveLayout.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\InteractiveLayout.AssemblyInfo.cs
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\InteractiveLayout.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\bin\Debug\net5.0\InteractiveLayout.deps.json
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\bin\Debug\net5.0\InteractiveLayout.dll
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\bin\Debug\net5.0\ref\InteractiveLayout.dll
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\bin\Debug\net5.0\InteractiveLayout.pdb
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\XamlC.stamp
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\InteractiveLayout.dll
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\ref\InteractiveLayout.dll
+C:\Users\Owner\source\repos\InteractiveLayout\InteractiveLayout\obj\Debug\net5.0\InteractiveLayout.pdb
